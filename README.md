@@ -126,7 +126,7 @@ Here i would use the .NET framework alongside C# to create MVC modeled websites 
 
 ## Achievements/Projects
 
-A personal achievement to show my dedication and discipline is that i have achieved a black belt in Ju-Jit-Su.
+A personal achievement to show my dedication and discipline is that after 8 hard years I achieved a black belt in Ju-Jit-Su.
 
 As well as this growing up I have played football for many teams, almost all of those teams i became the Captain of showing my leadership skills.
 
