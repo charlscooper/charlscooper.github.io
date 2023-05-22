@@ -1,7 +1,7 @@
 # Resume
 
 **Contact Information:**
-📧 charlescooperdev@gmail.com
+📧 <charlescooperdev@gmail.com>
 ☎️ Available on request.
 🏠 Preston, England.
 
@@ -17,8 +17,6 @@ My early interest in computers has driven me to pursue a career in software deve
 ---
 
 ## Professional Summary
-
-[Write a brief statement summarizing your career goals and key qualifications.]
 
 As i continue down the road of software development and design, i believe it to be imperative to create fast performant and well designed testable code that follows modern coding standards.
 
@@ -91,7 +89,7 @@ Here i would use the .NET framework alongside C# to create MVC modeled websites 
 
 ## Skills
 
-##### Technical Skills:
+##### Technical Skills
 
 - Well written and verbal communication
 - Strong presentation skills
