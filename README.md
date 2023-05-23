@@ -133,6 +133,22 @@ In terms of software I tend to have active side projects where I create things f
 
 Alongside these, I also work with clients that I procure myself to deliver software solutions on a freelance level, for example I have developed a fully functional property website for the use of buying/selling houses on. You can see this work [here](https://www.thepropertyclick.com/).
 
+## Seeking Freelance Opportunities
+
+With my **extensive knowledge in full stack development**, I am well-equipped to handle various aspects of software engineering. From front-end technologies like _HTML_, _CSS_, and _JavaScript_ to back-end frameworks like _Node.js_ and databases such as _SQL_ and _MongoDB_, I possess a strong understanding of the entire development process.
+
+- 🌐 Building responsive web applications.
+- 🖥️ Creating robust APIs.
+- 💪 Delivering high-quality solutions that meet client requirements.
+
+In addition, I have experience in developing **in-house solutions** for a range of business needs, including:
+
+- 📅 Bookings and scheduling systems.
+- 💼 Sales and inventory management applications.
+- 📱 Workforce apps for enhanced productivity and efficiency.
+
+If you have any freelance opportunities where my skills can be of value, please don't hesitate to **contact me**. I'm excited to collaborate on new projects, whether it's building customer-facing applications or developing internal tools to streamline operations. Let's work together to achieve successful outcomes!
+
 ## References
 
 References are available upon request.
