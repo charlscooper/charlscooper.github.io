@@ -23,7 +23,7 @@
 Software development started for me around twelve years old, creating simple batch files to find solutions to simple problems.
 For example to execute shutdown commands allowing me to download movies and games over night, then have the pc shut down before my parents would awaken and scold me for running the computer throughout the night.
 
-My early interest in computers has driven me to pursue a career in software development, and I have since gained extensive knowledge and experience in this field. Gaining a great deal of knowledge in the world of software systems, how they work and more importantly how to engineer them to overcome real world problems of any size.
+My early interest in computers has driven me to pursue a career in software development, and I have since gained extensive insight and experience in this field. Gaining a great deal of knowledge in the world of software systems, how they work and more importantly how to engineer them to overcome 'real world' problems of any size.
 
 ---
 
@@ -35,9 +35,9 @@ I ensure this through the practice and execution of '_clean code_', as a great r
 
 > “Clean code always looks like it was written by someone who cares.”
 
-And care I do, after all creating good software can alleviate problems many people and businesses face.
+Care I do, after all creating good software can alleviate problems faced by many people and businesses.
 
-I have a wide array of knowledge in different areas of code, of course my experience in each varies, however I've always found it both fun and easy to pickup new syntax / softwares or refine my knowledge so there's full confidence in myself to achieve results in any areas required for given problems. Either way I will list here some of main areas for clarification:
+I have a wide array of knowledge in different areas of code, of course my experience in each varies. However, I've always found it both fun and easy to pickup new syntax / softwares or refine my knowledge, so I have full confidence in myself to achieve results in any areas required for given problems. <br> Below I've listed some of my main areas for clarification:
 
 - Mobile Development (Android / IOS development, React Native)
 - Programming languages (Java, C#)
@@ -52,9 +52,9 @@ I have a wide array of knowledge in different areas of code, of course my experi
 
 ## Education
 
-- CAPITA novus Graduate Programme, 2020.
+- CAPITA Novus Graduate Programme, 2020.
 - Bsc Science & Engineering in Software Engineering, Manchester Metro University, 2018.
-- D*D* D\* in BTEC Information Technology, Pendleton College, 2015.
+- Three * Distinction in BTEC Information Technology, Pendleton College, 2015.
 
 ---
 
@@ -66,36 +66,36 @@ I have a wide array of knowledge in different areas of code, of course my experi
 
 TotalMobile | 2020-2023
 
-Responsibilities here involved working as a dedicated developer resource for Evri (_previously known as Hermes_).
+Responsibilities involved working as a dedicated developer resource for Evri (_previously known as Hermes_).
 
 I was required to communicate directly with the client and create designs and solutions to multiple mobile workforce applications that spanned from Depot parcel management to delivery systems.
 
-This was a challenging time as Covid hit and the increased demand of parcel deliveries sky rocketed, even still we as a team handled that and proved our resilience and fortitude as work from home became mandatory and the increase in workload was stressful to say the least.
+This was a challenging time as Covid hit and the increased demand of parcel deliveries sky rocketed. Even with this increase in workload and added pressures, we as a team proved our resilience and fortitude, as work from home became mandatory.
 
-Whilst Here I was looking to further my knowledge in React, and was able to take the lead on developing some React powered internal development tools.
-This opened a new opportunity for React development and moved to a team where I would work on apps for management systems for a multitude of well respected clients throughout the UK and Ireland.
+Whilst Here I am continuing to further my intellect in React, and proving able to take the lead on developing some React powered internal development tools.
+This opened a new opportunity for React development and transferring to a team where I work on apps for management systems for a multitude of well respected clients throughout the UK and Ireland.
 
 #### Software Engineer
 
 Cognito IQ | 2019-2020
 
-Responsibilities here included managing workloads for multiple highly respected clients from Baxi boilers, Integral, Transport for London etc.
+My responsibilities included managing workloads for multiple highly respected clients from: Baxi boilers, Integral, Transport for London etc.
 
-I would create designs and develop and build state managed workforce applications for mobile, used throughout the UK to help our workers complete their workdays.
+I've created designs and developed / built state managed workforce applications for mobile. These are used throughout the UK to help our workers complete their workdays efficiently.
 
 This could include scanning, signatures, forms, map route calculations and much more.
 
-The key softwares here mainly focused on the use of javascript.
+The key softwares here mainly focused on the use of web development technologies.
 
-#### Software Consultant
+#### Software Consultant7
 
 Capita | 2018-2019
 
-Responsibilities here consisted of venturing to clients (all the main colleges throughout the UK) discussing requirements and consulting them on decisions to be made for softwares they wished to create.
+My key responsibilities consisted of venturing to clients (all the main colleges throughout the UK), discussing requirements and consulting them on decisions to be made for softwares they wished to create.
 
-these could range in functionality from management systems to booking systems etc.
+These could range in functionality from management systems to booking systems etc.
 
-Here I made use of the .NET framework alongside C# to create MVC modeled websites to serve on the front-end, creation of API's to communicate with the back-end systems where I would have to manage user role systems.
+Whilst here I made use of the .NET framework alongside C# to create MVC modeled websites to serve on the front-end, creation of API's to communicate with the back-end systems where I would have to manage user role systems.
 
 ---
 
