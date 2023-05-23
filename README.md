@@ -72,7 +72,7 @@ I was required to communicate directly with the client and create designs and so
 
 This was a challenging time as Covid hit and the increased demand of parcel deliveries sky rocketed. Even with this increase in workload and added pressures, we as a team proved our resilience and fortitude, as work from home became mandatory.
 
-Whilst Here I am continuing to further my intellect in React, and proving able to take the lead on developing some React powered internal development tools.
+Whilst here I am continuing to further my intellect in React, and proving able to take the lead on developing some React powered internal development tools.
 This opened a new opportunity for React development and transferring to a team where I work on apps for management systems for a multitude of well respected clients throughout the UK and Ireland.
 
 #### Software Engineer
@@ -168,4 +168,4 @@ If you have any freelance opportunities where my skills can be of value, please 
 
 ## References
 
-*==References are available upon request.==*
+*<u>References are available upon request.</u>*
