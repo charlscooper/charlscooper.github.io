@@ -53,7 +53,7 @@ I have a wide array of knowledge in different areas of code, of course my experi
 
 (_Current Employment_)
 
-**TotalMobile | 2020-2023**
+TotalMobile | 2020-2023
 
 Responsibilities here involved working as a dedicated developer resource for Evri (_previously known as Hermes_).
 
@@ -66,7 +66,7 @@ This opened a new opportunity for React development and moved to a team where i 
 
 #### Software Engineer
 
-**Cognito IQ | 2019-2020**
+Cognito IQ | 2019-2020
 
 Responsibilities here included managing workloads for multiple highly respected clients from Baxi boilers, Integral, Transport for London etc.
 
@@ -78,7 +78,7 @@ The key softwares here mainly focused on the use of javascript.
 
 #### Software Consultant
 
-**Capita | 2018-2019**
+Capita | 2018-2019
 
 Responsibilities here consisted of venturing to clients (all the main colleges throughout the UK) discussing requirements and consulting them on decisions to be made for softwares they wished to create.
 
