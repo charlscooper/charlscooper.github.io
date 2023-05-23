@@ -142,7 +142,7 @@ Furthermore, I have showcased my leadership skills through my passion for footba
 
 In the realm of software development, I actively engage in side projects that fuel my creativity and passion. From creating games using powerful engines like Unity to developing AI-driven websites; I continuously explore new avenues to expand my skills and push the boundaries of what is possible.
 
-Additionally, I work independently with clients, delivering software solutions on a freelance basis. One notable example of my freelance work is the development of a fully functional property website, facilitating the seamless buying and selling of houses across europe. You can see and example of this work [here](https://www.thepropertyclick.com/).
+Additionally, I work independently with clients, delivering software solutions on a freelance basis. One notable example of my freelance work is the development of a fully functional property website, facilitating the seamless buying and selling of houses across Europe. You can see an example of this work [here](https://www.thepropertyclick.com/).
 
 These experiences have not only enriched my skillset but also shaped me into a versatile and dynamic professional. I am eager to apply my diverse expertise and creative problem-solving abilities to new projects and challenges.
 
