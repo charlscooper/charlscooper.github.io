@@ -1,9 +1,20 @@
 # Resume
 
 **Contact Information:**
-📧 <charlescooperdev@gmail.com>
-☎️ Available on request.
-🏠 Preston, England.
+
+📧 <charlescooperdev@gmail.com> <br> 📞 Available on request. <br> 🏠 Preston, England.
+
+---
+
+## Contents
+
+1. [Background](#background)
+2. [Professional Summary](#professional-summary)
+3. [Education](#education)
+4. [Work Experience](#work-experience)
+5. [Skills](#skills)
+6. [Achievements and Projects](#achievements-and-projects)
+7. [References](#references)
 
 ---
 
@@ -43,7 +54,7 @@ I have a wide array of knowledge in different areas of code, of course my experi
 
 - CAPITA novus Graduate Programme, 2020.
 - Bsc Science & Engineering in Software Engineering, Manchester Metro University, 2018.
-- D* D* D\* in BTEC Information Technology, Pendleton College, 2015.
+- D*D* D\* in BTEC Information Technology, Pendleton College, 2015.
 
 ---
 
@@ -152,6 +163,8 @@ In addition, I have experience in developing **in-house solutions** for a range 
 - 📱 Workforce apps for enhanced productivity and efficiency.
 
 If you have any freelance opportunities where my skills can be of value, please don't hesitate to **contact me**. I'm excited to collaborate on new projects, whether it's building customer-facing applications or developing internal tools to streamline operations. Let's work together to achieve successful outcomes!
+
+---
 
 ## References
 
