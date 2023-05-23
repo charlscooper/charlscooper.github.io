@@ -104,7 +104,7 @@ Whilst here I made use of the .NET framework alongside C# to create MVC modeled 
 ##### Technical Skills
 
 - Well written and verbal communication
-- Strong presentation skills
+- Strong presentational skills
 - Collaboration and teamwork
 - Client relationship management
 - Leadership abilities
@@ -125,7 +125,7 @@ Whilst here I made use of the .NET framework alongside C# to create MVC modeled 
 - Continuous professional development
 - Fast learner
 
-##### Organizational and Time Management Skills
+##### Organisational and Time Management Skills
 
 - Prioritization and time management
 - Planning and organization
@@ -136,13 +136,13 @@ Whilst here I made use of the .NET framework alongside C# to create MVC modeled 
 
 ## Achievements and Projects
 
-In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating my commitment and perseverance.
+In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating discipline and perseverance.
 
-Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams, and in almost every instance, I was entrusted with the role of Captain, guiding and motivating my teammates to success. With my leadership and teamwork abilities, I have led my teams to victory in numerous tournaments and competitions and my achievements lead one year to both managers and players player trophies.
+Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams and in almost every instance, I was entrusted with the role of Captain. Guiding and motivating my teammates to success. With my leadership and teamwork abilities, Leading my teams to victory in numerous tournaments and competitions and my achievements lead to one season earning both managers and player's player trophies.
 
-In the realm of software development, I actively engage in side projects that fuel my creativity and passion. From creating games using powerful engines like Unity to developing AI-driven websites, I continuously explore new avenues to expand my skills and push the boundaries of what is possible.
+In the realm of software development, I actively engage in side projects that fuel my creativity and passion. From creating games using powerful engines like Unity to developing AI-driven websites; I continuously explore new avenues to expand my skills and push the boundaries of what is possible.
 
-Additionally, I work independently with clients, delivering software solutions on a freelance basis. One notable example of my freelance work is the development of a fully functional property website, facilitating the seamless buying and selling of houses. You can see and example of this work [here](https://www.thepropertyclick.com/).
+Additionally, I work independently with clients, delivering software solutions on a freelance basis. One notable example of my freelance work is the development of a fully functional property website, facilitating the seamless buying and selling of houses across europe. You can see and example of this work [here](https://www.thepropertyclick.com/).
 
 These experiences have not only enriched my skillset but also shaped me into a versatile and dynamic professional. I am eager to apply my diverse expertise and creative problem-solving abilities to new projects and challenges.
 
