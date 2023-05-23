@@ -70,7 +70,7 @@ Responsibilities here involved working as a dedicated developer resource for Evr
 
 I was required to communicate directly with the client and create designs and solutions to multiple mobile workforce applications that spanned from Depot parcel management to delivery systems.
 
-This was a challenging time as Covid hit and the increased demand of parcel deliveries sky rocketed, alas we as a team handled that and proved our resilience and fortitude as work from home became mandatory and the increase in workload was stressful to say the least.
+This was a challenging time as Covid hit and the increased demand of parcel deliveries sky rocketed, even still we as a team handled that and proved our resilience and fortitude as work from home became mandatory and the increase in workload was stressful to say the least.
 
 Whilst Here I was looking to further my knowledge in React, and was able to take the lead on developing some React powered internal development tools.
 This opened a new opportunity for React development and moved to a team where I would work on apps for management systems for a multitude of well respected clients throughout the UK and Ireland.
@@ -138,7 +138,7 @@ Here I made use of the .NET framework alongside C# to create MVC modeled website
 
 In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating my commitment and perseverance.
 
-Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams, and in almost every instance, I was entrusted with the role of Captain, guiding and motivating my teammates to success.
+Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams, and in almost every instance, I was entrusted with the role of Captain, guiding and motivating my teammates to success. With my leadership and teamwork abilities, I have led my teams to victory in numerous tournaments and competitions and my achievements lead one year to both managers and players player trophies.
 
 In the realm of software development, I actively engage in side projects that fuel my creativity and passion. From creating games using powerful engines like Unity to developing AI-driven websites, I continuously explore new avenues to expand my skills and push the boundaries of what is possible.
 
