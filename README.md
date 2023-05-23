@@ -123,15 +123,19 @@ Here I made use of the .NET framework alongside C# to create MVC modeled website
 
 ---
 
-## Achievements/Projects
+## Achievements and Projects
 
-A personal achievement to show my dedication and discipline is that after 8 hard years I achieved a black belt in Ju-Jit-Su.
+In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating my commitment and perseverance.
 
-As well as this growing up I have played football for many teams, almost all of those teams I became the Captain, showing my leadership skills.
+Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams, and in almost every instance, I was entrusted with the role of Captain, guiding and motivating my teammates to success.
 
-In terms of software I tend to have active side projects where I create things from games in powerful game engines such as unity to creating websites powered by the use of AI.
+In the realm of software development, I actively engage in side projects that fuel my creativity and passion. From creating games using powerful engines like Unity to developing AI-driven websites, I continuously explore new avenues to expand my skills and push the boundaries of what is possible.
 
-Alongside these, I also work with clients that I procure myself to deliver software solutions on a freelance level, for example I have developed a fully functional property website for the use of buying/selling houses on. You can see this work [here](https://www.thepropertyclick.com/).
+Additionally, I work independently with clients, delivering software solutions on a freelance basis. One notable example of my freelance work is the development of a fully functional property website, facilitating the seamless buying and selling of houses. You can see and example of this work [here](https://www.thepropertyclick.com/).
+
+These experiences have not only enriched my skillset but also shaped me into a versatile and dynamic professional. I am eager to apply my diverse expertise and creative problem-solving abilities to new projects and challenges.
+
+---
 
 ## Seeking Freelance Opportunities
 
