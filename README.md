@@ -138,7 +138,7 @@ Whilst here I made use of the .NET framework alongside C# to create MVC modeled 
 
 In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating discipline and perseverance.
 
-Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams and in almost every instance, I was entrusted with the role of Captain. Guiding and motivating my teammates to success. With my leadership and teamwork abilities, Leading my teams to victory in numerous tournaments and competitions and my achievements lead to one season earning both managers and player's player trophies.
+Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams and in almost every instance, I was entrusted with the role of Captain. Guiding and motivating my teammates to success. My Leadership resulted in my teams victory in numerous tournaments and competitions and my achievements lead to one season earning both Manager's and Player's player trophies.
 
 In the realm of software development, I actively engage in side projects that fuel my creativity and passion. From creating games using powerful engines like Unity to developing AI-driven websites; I continuously explore new avenues to expand my skills and push the boundaries of what is possible.
 
