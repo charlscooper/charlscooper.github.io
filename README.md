@@ -168,4 +168,4 @@ If you have any freelance opportunities where my skills can be of value, please 
 
 ## References
 
-<u>==*References are available upon request.*==</u>
+==*References are available upon request.*==
