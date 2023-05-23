@@ -35,6 +35,7 @@ I have a wide array of knowledge in different areas of code, of course my experi
 - Database management (SQL, MySQL, MongoDB, AWS)
 - Graphic design (Adobe Photoshop, Figma)
 - Source control (Git, github/bitbucket)
+- Software Methodologies (Agile)
 
 ---
 
