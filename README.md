@@ -8,13 +8,14 @@
 
 ## Contents
 
-1. [Background](#background)
-2. [Professional Summary](#professional-summary)
-3. [Education](#education)
-4. [Work Experience](#work-experience)
-5. [Skills](#skills)
-6. [Achievements and Projects](#achievements-and-projects)
-7. [References](#references)
+- [Background](#background)
+- [Professional Summary](#professional-summary)
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Skills](#skills)
+- [Achievements and Projects](#achievements-and-projects)
+- [Seeking Freelance Opportunities](#seeking-freelance-opportunities)
+- [References](#references)
 
 ---
 
@@ -29,7 +30,7 @@ My early interest in computers has driven me to pursue a career in software deve
 
 ## Professional Summary
 
-As I continue down the road of software development and design, I believe it to be imperative to create fast performant and well designed testable code that follows modern coding standards.
+With 5 years of experience in the commercial sector and a continued journey in software development and design, I am driven by the belief that creating fast, performant, and well-designed testable code is essential. I strive to adhere to modern coding standards, ensuring the highest quality in every aspect of my work. By combining my industry expertise with a dedication to excellence, I aim to deliver software solutions that surpass expectations and positively impact end-users
 
 I ensure this through the practice and execution of '_clean code_', as a great role model of mine Robert Martin puts it:
 
@@ -87,7 +88,7 @@ This could include scanning, signatures, forms, map route calculations and much 
 
 The key softwares here mainly focused on the use of web development technologies.
 
-#### Software Consultant7
+#### Software Consultant
 
 Capita | 2018-2019
 
@@ -136,7 +137,7 @@ Whilst here I made use of the .NET framework alongside C# to create MVC modeled 
 
 ## Achievements and Projects
 
-In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating discipline and perseverance.
+In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating commitment and perseverance.
 
 Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams and in almost every instance, I was entrusted with the role of Captain. Guiding and motivating my teammates to success. My Leadership resulted in my teams victory in numerous tournaments and competitions and my achievements lead to one season earning both Manager's and Player's player trophies.
 
