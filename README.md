@@ -24,21 +24,21 @@
 Software development started for me around twelve years old, creating simple batch files to find solutions to simple problems.
 For example to execute shutdown commands allowing me to download movies and games over night, then have the pc shut down before my parents would awaken and scold me for running the computer throughout the night.
 
-My early interest in computers has driven me to pursue a career in software development, and I have since gained extensive insight and experience in this field. Gaining a great deal of knowledge in the world of software systems, how they work and more importantly how to engineer them to overcome 'real world' problems of any size.
+This lead to me seek advice from my cosuin, a fellow software engineer, and having him introduce me to the world of talking to computers my interest peaked! This was just the start to what has driven me to pursue a career in software development. My work efforts since have gained me an extensive insight and experience in this field. Gaining a great deal of knowledge in the world of software systems, how they work and more importantly how to engineer them to overcome 'real world' problems from big to small.
 
 ---
 
 ## Professional Summary
 
-With 5 years of experience in the commercial sector and a continued journey in software development and design, I am driven by the belief that creating fast, performant, and well-designed testable code is essential. I strive to adhere to modern coding standards, ensuring the highest quality in every aspect of my work. By combining my industry expertise with a dedication to excellence, I aim to deliver software solutions that surpass expectations and positively impact end-users
+With over 5 years of experience in the commercial sector and a continued journey in software development and design, I am driven by the belief that creating fast, performant, and well-designed testable code is essential. I strive to adhere to modern coding standards, ensuring the highest quality in every aspect of my work. By combining my industry expertise with a dedication to excellence, I aim to deliver software solutions that surpass expectations and positively impact end-users
 
-I ensure this through the practice and execution of '_clean code_', as a great role model of mine Robert Martin puts it:
+I go further to ensure this through the practice and execution of '_clean code_', as a great role model of mine Robert Martin puts it:
 
 > “Clean code always looks like it was written by someone who cares.”
 
 Care I do, after all creating good software can alleviate problems faced by many people and businesses.
 
-I have a wide array of knowledge in different areas of code, of course my experience in each varies. However, I've always found it both fun and easy to pickup new syntax / softwares or refine my knowledge, so I have full confidence in myself to achieve results in any areas required for given problems. <br> Below I've listed some of my main areas for clarification:
+I have a wide array of knowledge in different areas of code, of course my experience in each varies. However, fortunately I've always found the challenge of new syntax / softwares or refining my intellect fun and allows me to showcase my ability to technically analyse and problem-solve. I have full confidence in myself to achieve results in any areas required for given problems. <br> Below I've listed some of my main areas of varying proficiency for clarification:
 
 - Mobile Development (Android / IOS development, React Native)
 - Programming languages (Java, C#)
@@ -139,11 +139,11 @@ Whilst here I made use of the .NET framework alongside C# to create MVC modeled 
 
 In addition to my professional accomplishments, I have pursued personal achievements that reflect my dedication and discipline. After 8 years of rigorous training, I achieved a black belt in Ju-Jit-Su, demonstrating commitment and perseverance.
 
-Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams and in almost every instance, I was entrusted with the role of Captain. Guiding and motivating my teammates to success. My Leadership resulted in my teams victory in numerous tournaments and competitions and my achievements lead to one season earning both Manager's and Player's player trophies.
+Furthermore, I have showcased my leadership skills through my passion for football. Throughout my upbringing, I played for various teams and in almost every instance, I worked hard to be entrusted with the role of Captain. Guiding and motivating my teammates to success. My Leadership resulted in my teams victory in numerous tournaments and competitions and my achievements lead to one season earning both Manager's and Player's player trophies.
 
 In the realm of software development, I actively engage in side projects that fuel my creativity and passion. From creating games using powerful engines like Unity to developing AI-driven websites; I continuously explore new avenues to expand my skills and push the boundaries of what is possible.
 
-Additionally, I work independently with clients, delivering software solutions on a freelance basis. One notable example of my freelance work is the development of a fully functional property website, facilitating the seamless buying and selling of houses across Europe. You can see an example of this work [here](https://www.thepropertyclick.com/).
+Additionally, I work independently with clients, delivering software solutions on a freelance basis. One notable example of my freelance work is the development of a fully functional property website, facilitating the seamless buying and selling of houses across Europe. [You can see an example of this work here](https://www.thepropertyclick.com/).
 
 These experiences have not only enriched my skillset but also shaped me into a versatile and dynamic professional. I am eager to apply my diverse expertise and creative problem-solving abilities to new projects and challenges.
 
