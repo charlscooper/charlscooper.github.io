@@ -21,10 +21,11 @@
 
 ## Background
 
-Software development started for me around twelve years old, creating simple batch files to find solutions to simple problems.
-For example to execute shutdown commands allowing me to download movies and games over night, then have the pc shut down before my parents would awaken and scold me for running the computer throughout the night.
+My journey into software development began at the age of twelve, when I started crafting simple batch files to solve everyday challenges. One notable example was creating shutdown commands, enabling me to download files overnight while ensuring the computer powered down before my parents awoke.
 
-This lead to me seek advice from my cosuin, a fellow software engineer, and having him introduce me to the world of talking to computers my interest peaked! This was just the start to what has driven me to pursue a career in software development. My work efforts since have gained me an extensive insight and experience in this field. Gaining a great deal of knowledge in the world of software systems, how they work and more importantly how to engineer them to overcome 'real world' problems from big to small.
+This early experimentation led me to seek guidance from my cousin, a seasoned software engineer, who introduced me to the fascinating world of communicating with computers. From that moment, my curiosity was ignited, setting me on a path towards a career in software development.
+
+Over the years, my dedication and hard work have afforded me a wealth of experience and deep insights into this dynamic field. I've honed my skills in understanding intricate software systems and, more importantly, in engineering solutions to tackle 'real world' challenges, ranging from the substantial to the minute.
 
 ---
 
