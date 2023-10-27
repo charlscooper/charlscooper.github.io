@@ -61,24 +61,25 @@ I have a wide array of knowledge in different areas of code, of course my experi
 
 ## Work Experience
 
-#### Software Engineer
+#### TotalMobile | 2020-2023
 
-(_Current Employment_)
+Proficiently designed and executed comprehensive test cases, ensuring the reliability and functionality of applications.
 
-TotalMobile | 2020-2023
+Developed bespoke developer tooling applications to streamline and enhance development processes.
 
-Responsibilities involved working as a dedicated developer resource for Evri (_previously known as Hermes_).
+Expertly crafted and managed mobile applications with intricate modular code within monolithic code bases.
 
-I was required to communicate directly with the client and create designs and solutions to multiple mobile workforce applications that spanned from Depot parcel management to delivery systems.
+Diligently maintained legacy code, ensuring seamless continuity in application functionality.
 
-This was a challenging time as Covid hit and the increased demand of parcel deliveries sky rocketed. Even with this increase in workload and added pressures, we as a team proved our resilience and fortitude, as work from home became mandatory.
+Creation and maintenance of mobile workforce applications, adeptly handling vast quantities of workforce data.
 
-Whilst here I am continuing to further my intellect in React, and proving able to take the lead on developing some React powered internal development tools.
-This opened a new opportunity for React development and transferring to a team where I work on apps for management systems for a multitude of well respected clients throughout the UK and Ireland.
+Innovatively designed and implemented test cases to ensure optimal performance and reliability.
 
-#### Software Engineer
+Leveraged cutting-edge technologies at the forefront of web development, including React and React Native, to drive innovation in application development.
 
-Cognito IQ | 2019-2020
+> **Toolkit**: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript
+
+#### Cognito IQ | 2019-2020
 
 My responsibilities included managing workloads for multiple highly respected clients from: Baxi boilers, Integral, Transport for London etc.
 
@@ -88,15 +89,19 @@ This could include scanning, signatures, forms, map route calculations and much 
 
 The key softwares here mainly focused on the use of web development technologies.
 
-#### Software Consultant
+> **Toolkit**: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript
 
-Capita | 2018-2019
+#### Capita | 2018-2019
 
-My key responsibilities consisted of venturing to clients (all the main colleges throughout the UK), discussing requirements and consulting them on decisions to be made for softwares they wished to create.
+Developed and implemented in-house management applications tailored for colleges throughout the North of England, optimizing operational efficiency and delivering solutions for complex organisational problems.
 
-These could range in functionality from management systems to booking systems etc.
+Employed the MVC design pattern alongside Microsoft's .NET stack to create robust and scalable solutions.
 
-Whilst here I made use of the .NET framework alongside C# to create MVC modeled websites to serve on the front-end, creation of API's to communicate with the back-end systems where I would have to manage user role systems.
+Designed, implemented, and maintained user base systems, ensuring precise management of permissions and responsibilities for controlled access.
+
+Embarked on a specialized role that involved extensive travel to various colleges, offering comprehensive consultation services from the initial design phase to the finalization of custom applications.
+
+>**Toolkit**: Software Consulting · TypeScript · Git · Problem Solving · .NET Framework · Model-View-Controller (MVC) · GitHub · C#
 
 ---
 
