@@ -1,8 +1,8 @@
 <h1 style="text-align:center; line-height: 1">Charles Cooper</h1>
 <div style="display: flex; width: 100%; justify-content: space-around;">
-<p style="line-height: 1"><b>Address: </b>85 Princes Reach,<br> Preston, Lancashire, PR22GB.</p>
+<p style="line-height: 1"><b>Address: </b>85 Princes Reach,<br /> Preston, Lancashire, PR22GB.</p>
 
-<p style="line-height: 1; text-align:start;"><b>Telephone: </b>07852288138<br><b>Email: </b>charlescooperdev@gmail.com</p>
+<p style="line-height: 1; text-align:start;"><b>Telephone: </b>07852288138<br/><b>Email: </b>charlescooperdev@gmail.com</p>
 </div>
 
 <p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills within both small and large teams, and a keen eye for detail. With over six years of experience in the software sector, I approach every challenge as an opportunity to expand, refine, and streamline processes utilized by businesses within the industry. My main aim is to find the problem, and fix it!<p>
@@ -10,7 +10,7 @@
 <div style="border-bottom: 1px solid black; border-top: 1px solid black">
 <h3 style="text-align:center;">KEY SKILLS</h3>
 </div>
-<br>
+<br/>
 <ul >
 <li style="line-height: 1; margin-bottom: 10px">Proficient in designing, implementing, testing, and delivering robust and scalable software solutions across the entire technology stack.</li>
 <li style="line-height: 1; margin-bottom: 10px">Highly Effective problem solving ability able to analyze complex issues, devise effective solutions, and implement them efficiently to meet business objectives and time constraints.</li>
@@ -24,7 +24,7 @@
 <div style="border-bottom: 1px solid black; border-top: 1px solid black">
 <h3 style="text-align:center;">CAREER HISTORY</h3>
 </div>
-<br>
+<br/>
 
 **Funded Trading Plus | 2024**
 Part of a small team for a startup company, My main role here was a short-term contract where I was able help find issues/bugs within their legacy code and implement solutions for their main website. Alongside this to revamp the old tools for their CRM platform through creating figma UX designs and then implementing them.
@@ -67,7 +67,7 @@ Embarked on a specialized role that involved extensive travel to various college
 <div style="border-bottom: 1px solid black; border-top: 1px solid black">
 <h3 style="text-align:center;">EDUCATION</h3>
 </div>
-<br>
+<br/>
 
 - CAPITA Novus Graduate Programme, 2019.
 - BSc Science in Software Engineering, Manchester Metro University, 2018.
