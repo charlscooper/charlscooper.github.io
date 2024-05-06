@@ -33,16 +33,19 @@
 - BSc Science in Software Engineering, Manchester Metro University, 2018.
 - Three * Distinction in BTEC Information Technology, Pendleton College, 2015.
 
+---
+
 <div style="page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
 
----
+
 
 <h3 style="text-align:center; line-height: 0.2">CAREER HISTORY</h3>
 
 ---
-<p style="text-align: right; line-height: 0.2"><b>Funded Trading Plus | 2024</b></p>
+
+<p style="line-height: 0.2"><b>Funded Trading Plus | 2024</b></p>
 
 Part of a small team for a startup company, My main role here was a short-term contract where I was able help find issues/bugs within their legacy code and implement solutions for their main website. Alongside this to revamp the old tools for their CRM platform through creating figma UX designs and then implementing them.
 
@@ -50,7 +53,7 @@ The role included some back-end management utilising their existing api's and co
 
 > Toolkit: Full-Stack Development · E-Commerce · TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · Node.js · GitHub · React · JavaScript
 
-<p style="text-align: right; line-height: 0.2"><b>TotalMobile | 2020-2023</b></p>
+<p style="line-height: 0.2"><b>TotalMobile | 2020-2023</b></p>
 
 Part of the dedicated Evri development team, responsible for designing and developing mobile workforce management applications used for throughout the Evri parcel delivery systems.
 
@@ -62,7 +65,7 @@ Leveraged cutting-edge technologies at the forefront of web development, includi
 
 > Toolkit: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript
 
-<p style="text-align: right; line-height: 0.2"><b>Cognito IQ | 2019-2020</b></p>
+<p style="line-height: 0.2"><b>Cognito IQ | 2019-2020</b></p>
 
 Part of a team responsible for managing workforce applications used throughout the UK to help users complete their workdays efficiently.
 
@@ -72,7 +75,7 @@ Scanning, signatures, forms, map route calculations and much more would be neede
 
 > Toolkit: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript
 
-<p style="text-align: right; line-height: 0.2"><b>Capita | 2018-2019</b></p>
+<p style="line-height: 0.2"><b>Capita | 2018-2019</b></p>
 
 Developed and implemented in-house management applications tailored to the education institutions at a college level. All throughout the North of England, optimizing operational efficiency and delivering solutions for student management.
 
