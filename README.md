@@ -28,7 +28,9 @@
 
 ---
 
-**Funded Trading Plus | 2024**
+<p style="line-height: 0.2"><b>Funded Trading Plus | 2024
+</b></p>
+
 Part of a small team for a startup company, My main role here was a short-term contract where I was able help find issues/bugs within their legacy code and implement solutions for their main website. Alongside this to revamp the old tools for their CRM platform through creating figma UX designs and then implementing them.
 
 The role included some back-end management utilising their existing api's and containerising their applications to move towards micro-services with the use of Kubernetics.
