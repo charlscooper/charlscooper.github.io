@@ -24,9 +24,7 @@
 </ul>
 
 ---
-
 <h3 style="text-align:center; line-height: 0.2">EDUCATION</h3>
-
 ---
 
 - CAPITA Novus Graduate Programme, 2019.
