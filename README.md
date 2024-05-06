@@ -7,10 +7,10 @@
 
 <p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills within both small and large teams, and a keen eye for detail. With over six years of experience in the software sector, I approach every challenge as an opportunity to expand, refine, and streamline processes utilized by businesses within the industry. My main aim is to find the problem, and fix it!<p>
 
-<div style="border-bottom: 1px solid black;">
-<h3 style="text-align:center; line-height: 0.2">KEY SKILLS</h3>
-<div style="border-bottom: 1px solid black;">
-
+<div style="border-bottom: 1px solid black; border-top: 1px solid black">
+<h3 style="text-align:center;">KEY SKILLS</h3>
+</div>
+<br>
 <ul >
 <li style="line-height: 1; margin-bottom: 10px">Proficient in designing, implementing, testing, and delivering robust and scalable software solutions across the entire technology stack.</li>
 <li style="line-height: 1; margin-bottom: 10px">Highly Effective problem solving ability able to analyze complex issues, devise effective solutions, and implement them efficiently to meet business objectives and time constraints.</li>
@@ -21,25 +21,30 @@
 <li style="line-height: 1; margin-bottom: 10px">A proven track record of delivering results in high profile, high-pressure appointments.</li>
 </ul>
 
----
-<h3 style="text-align:center; line-height: 0.2">EDUCATION</h3>
----
+<div style="border-bottom: 1px solid black; border-top: 1px solid black">
+<h3 style="text-align:center;">EDUCATION</h3>
+</div>
+<br>
+
+
 
 - CAPITA Novus Graduate Programme, 2019.
 - BSc Science in Software Engineering, Manchester Metro University, 2018.
 - Three * Distinction in BTEC Information Technology, Pendleton College, 2015.
 
----
+
 
 <div style="page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
 
 
+<div style="border-bottom: 1px solid black; border-top: 1px solid black">
+<h3 style="text-align:center;">CAREER HISTORY</h3>
+</div>
+<br>
 
-<h3 style="text-align:center; line-height: 0.2">CAREER HISTORY</h3>
 
----
 
 <p style="line-height: 0.2"><b>Funded Trading Plus | 2024</b></p>
 
