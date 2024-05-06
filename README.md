@@ -18,33 +18,13 @@
 <li style="line-height: 1; margin-bottom: 10px">Proven track record of collaborating effectively with cross-functional teams, including developers, designers, and project managers. Furthered by utilising version control (Git) and bug tracking/ issue tracking (Jira) to facilitate seamless collaboration with team members and ensuring codebase integrity.</li>
 <li style="line-height: 1; margin-bottom: 10px">Deep understanding of software design principles and design patterns, with a focus on writing clean, maintainable, and reusable code.</li>
 <li style="line-height: 1; margin-bottom: 10px">Exceptional time management skills, capable of prioritizing tasks effectively to meet project deadlines and deliverables.</li>
-<li style="line-height: 1; margin-bottom: 10px">A proven track record of delivering results in high profile, high-pressure appointments.</li>
+<li style="line-height: 1; margin-bottom: 10px">A proven track record of delivering results in high profile, high-pressure situations.</li>
 </ul>
-
-<div style="border-bottom: 1px solid black; border-top: 1px solid black">
-<h3 style="text-align:center;">EDUCATION</h3>
-</div>
-<br>
-
-
-
-- CAPITA Novus Graduate Programme, 2019.
-- BSc Science in Software Engineering, Manchester Metro University, 2018.
-- Three * Distinction in BTEC Information Technology, Pendleton College, 2015.
-
-
-
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
-
 
 <div style="border-bottom: 1px solid black; border-top: 1px solid black">
 <h3 style="text-align:center;">CAREER HISTORY</h3>
 </div>
 <br>
-
-
 
 <p style="line-height: 0.2"><b>Funded Trading Plus | 2024</b></p>
 
@@ -87,3 +67,12 @@ Designed, implemented, and maintained user base systems, ensuring precise manage
 Embarked on a specialized role that involved extensive travel to various colleges, offering comprehensive consultation services from the initial design phase to the finalization of custom applications.
 
 > Toolkit: Software Consulting · TypeScript · Git · Problem Solving · .NET Framework · Model-View-Controller (MVC) · GitHub · C#
+
+<div style="border-bottom: 1px solid black; border-top: 1px solid black">
+<h3 style="text-align:center;">EDUCATION</h3>
+</div>
+<br>
+
+- CAPITA Novus Graduate Programme, 2019.
+- BSc Science in Software Engineering, Manchester Metro University, 2018.
+- Three * Distinction in BTEC Information Technology, Pendleton College, 2015.
