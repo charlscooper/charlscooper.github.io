@@ -7,11 +7,9 @@
 
 <p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills within both small and large teams, and a keen eye for detail. With over six years of experience in the software sector, I approach every challenge as an opportunity to expand, refine, and streamline processes utilized by businesses within the industry. My main aim is to find the problem, and fix it!<p>
 
----
-
+<div style="border-bottom: 1px solid black;">
 <h3 style="text-align:center; line-height: 0.2">KEY SKILLS</h3>
-
----
+<div style="border-bottom: 1px solid black;">
 
 <ul >
 <li style="line-height: 1; margin-bottom: 10px">Proficient in designing, implementing, testing, and delivering robust and scalable software solutions across the entire technology stack.</li>
