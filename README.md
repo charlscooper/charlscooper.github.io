@@ -33,9 +33,19 @@
 
 Part of a small team for a startup company, My main role here was a short-term contract where I was able help find issues/bugs within their legacy code and implement solutions for their main website. Alongside this to revamp the old tools for their CRM platform through creating figma UX designs and then implementing them.
 
+My responsibilities encompassed a diverse range of tasks, primarily focusing on frontend development, UX/UI enhancements, and technical coordination for future technology stacks.
+
+Identification and rectification of bugs within legacy code bases, ensuring improved system stability and performance. Implemented modern coding standards and best practices to enhance maintainability and scalability.
+
+Led the redesign efforts of internal CRM tooling, This involved conducting user research, wireframing, prototyping, and delivering polished designs aligned with business objectives. collaborating closely with the ops team to determine areas of improvements for their work.
+
+Implemented UI updates and handled bug fixes across the main site, enhancing its visual appeal and usability. Employed HTML, CSS, JavaScript, and related frameworks such as React to achieve seamless frontend functionality and alignment with brand guidelines
+
+Played a crucial role in defining technical specifications for the future technology stacks. Conducted in-depth research on emerging technologies, evaluated their suitability for the organisation's needs, and provided comprehensive recommendations to guide strategic decision-making.
+
 The role included some back-end management utilising their existing api's and containerising their applications to move towards micro-services with the use of Kubernetics.
 
-> Toolkit: Full-Stack Development · E-Commerce · TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · Node.js · GitHub · React · JavaScript
+> Toolkit: Full-Stack Development · E-Commerce · TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · Node.js · GitHub · React · JavaScript · Docker · Kubernetics
 
 <p style="line-height: 0.2"><b>TotalMobile | 2020-2023</b></p>
 
