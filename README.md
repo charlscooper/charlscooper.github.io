@@ -31,9 +31,7 @@
 <p style="line-height: 0.2"><b>Funded Trading Plus | 2024
 </b></p>
 
-Part of a small team for a startup company, My main role here was a short-term contract where I was able help find issues/bugs within their legacy code and implement solutions for their main website. Alongside this to revamp the old tools for their CRM platform through creating figma UX designs and then implementing them.
-
-My responsibilities encompassed a diverse range of tasks, primarily focusing on frontend development, UX/UI enhancements, and technical coordination for future technology stacks.
+Part of a small team for a startup company on a short-term contract, My responsibilities encompassed a diverse range of tasks, primarily focusing on frontend development, UX/UI enhancements, and technical coordination for future technology stacks. with some back-end management utilising their existing api's and containerising their applications to move towards micro-services with the use of Kubernetics.
 
 Identification and rectification of bugs within legacy code bases, ensuring improved system stability and performance. Implemented modern coding standards and best practices to enhance maintainability and scalability.
 
@@ -42,8 +40,6 @@ Led the redesign efforts of internal CRM tooling, This involved conducting user 
 Implemented UI updates and handled bug fixes across the main site, enhancing its visual appeal and usability. Employed HTML, CSS, JavaScript, and related frameworks such as React to achieve seamless frontend functionality and alignment with brand guidelines
 
 Played a crucial role in defining technical specifications for the future technology stacks. Conducted in-depth research on emerging technologies, evaluated their suitability for the organisation's needs, and provided comprehensive recommendations to guide strategic decision-making.
-
-The role included some back-end management utilising their existing api's and containerising their applications to move towards micro-services with the use of Kubernetics.
 
 > Toolkit: Full-Stack Development · E-Commerce · TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · Node.js · GitHub · React · JavaScript · Docker · Kubernetics
 
