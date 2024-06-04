@@ -1,10 +1,10 @@
 <h1 style="text-align:center; line-height: 1">Charles Cooper</h1>
-<div style="display: flex; width: 100%; justify-content: space-around;">
+<div style="display: flex; width: 100%; justify-content: space-between;">
     <p style="line-height: 1"><b>Address: </b>85 Princes Reach,<br /> Preston, Lancashire, PR22GB.</p>
     <p style="line-height: 1; text-align:start;"><b>Telephone: </b>07852288138<br/><b>Email: </b>charlescooperdev@gmail.com</p>
 </div>
 
-<p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills and comfortable in leading both small and large teams, and a keen eye for detail. With over six years of experience in the software sector, I approach every challenge as an opportunity to expand, refine, and streamline processes utilised by businesses within the industry.</p>
+<p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills, confident in leading both small and large teams, and a keen eye for detail. With over thirteen years experience in software and over six of those in the software sector working within startups and large scale businesses alike. I approach every challenge as an opportunity to expand, refine, and streamline processes utilised by businesses throughout the industry.</p>
 
 ---
 
