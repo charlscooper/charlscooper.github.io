@@ -4,7 +4,7 @@
     <p style="line-height: 1; text-align:start;"><b>Telephone: </b>07852288138<br/><b>Email: </b>charlescooperdev@gmail.com</p>
 </div>
 
-<p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills within both small and large teams, and a keen eye for detail. With over six years of experience in the software sector, I approach every challenge as an opportunity to expand, refine, and streamline processes utilized by businesses within the industry. My main aim is to find the problem, and fix it!</p>
+<p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills and comfortable in leading both small and large teams, and a keen eye for detail. With over six years of experience in the software sector, I approach every challenge as an opportunity to expand, refine, and streamline processes utilised by businesses within the industry.</p>
 
 ---
 
