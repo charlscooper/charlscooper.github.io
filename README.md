@@ -1,10 +1,16 @@
+<div style="display: flex; align-items: center; justify-content: center;">
 <h1 style="text-align:center; line-height: 1">Charles Cooper</h1>
+<a href="https://www.linkedin.com/in/cd-cooper/"><img src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="30" height="30"></a>
+<a href="https://github.com/charlscooper"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="20" height=20"></a>
+</div>
+
+
 <div style="display: flex; width: 100%; justify-content: space-between;">
     <p style="line-height: 1"><b>Address: </b>85 Princes Reach,<br /> Preston, Lancashire, PR22GB.</p>
     <p style="line-height: 1; text-align:start;"><b>Telephone: </b>07852288138<br/><b>Email: </b>charlescooperdev@gmail.com</p>
 </div>
 
-<p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills, confident in leading both small and large teams, and a keen eye for detail. With over thirteen years experience in software and over six of those in the software sector working within startups and large scale businesses alike. I approach every challenge as an opportunity to expand, refine, and streamline processes utilised by businesses throughout the industry.</p>
+<p style="font-weight: 600; ">BSc (Hons) Software Engineering graduate, A highly self-motivated engineer with a versatile skill set spanning the full stack of software. Excellent problem-solving abilities, adept communication skills, confident in leading both small or large teams. A keen eye for detail, with over thirteen years experience in software and over six of those in the software sector working within startups and large scale businesses alike. I approach every challenge as an opportunity to expand, refine, and streamline processes utilised by businesses throughout the industry.</p>
 
 ---
 
@@ -16,7 +22,7 @@
     <li style="line-height: 1; margin-bottom: 10px">Proficient in designing, implementing, testing, and delivering robust and scalable software solutions across the entire technology stack.</li>
     <li style="line-height: 1; margin-bottom: 10px">Highly Effective problem solving ability able to analyze complex issues, devise effective solutions, and implement them efficiently to meet business objectives and time constraints.</li>
     <li style="line-height: 1; margin-bottom: 10px">Experienced in Agile and Scrum methodologies, adept at adapting to changing project requirements and delivering high-quality software in iterative cycles.</li>
-    <li style="line-height: 1; margin-bottom: 10px">Proven track record of collaborating effectively with cross-functional teams, including developers, designers, and project managers. Furthered by utilising version control (Git) and bug tracking/ issue tracking (Jira) to facilitate seamless collaboration with team members and ensuring codebase integrity.</li>
+    <li style="line-height: 1; margin-bottom: 10px">Solid background collaborating effectively with cross-functional teams, including developers, designers, and project managers. Furthered by utilising version control (Git) and bug tracking/ issue tracking (Jira) to facilitate seamless collaboration with team members and ensuring codebase integrity.</li>
     <li style="line-height: 1; margin-bottom: 10px">Deep understanding of software design principles and design patterns, with a focus on writing clean, maintainable, and reusable code.</li>
     <li style="line-height: 1; margin-bottom: 10px">Exceptional time management skills, capable of prioritizing tasks effectively to meet project deadlines and deliverables.</li>
     <li style="line-height: 1; margin-bottom: 10px">A proven track record of delivering results in high profile, high-pressure situations.</li>
@@ -53,7 +59,7 @@ Maintained legacy code, ensuring seamless continuity in application functionalit
 
 Leveraged cutting-edge technologies at the forefront of web development, including React and React Native, to drive innovation in application development.
 
-> Toolkit: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript
+> Toolkit: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript · SQL
 
 <p style="line-height: 0.2"><b>Cognito IQ | 2019-2020</b></p>
 
@@ -63,7 +69,7 @@ This ranged across many clients from smaller businesses' needs to clients as big
 
 Scanning, signatures, forms, map route calculations and much more would be needed whilst handling mass data with live state updates.
 
-> Toolkit: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript
+> Toolkit: TypeScript · Git · Problem Solving · Source Contol · Web Services API · HTML5 · Cascading Style Sheets (CSS) · jQuery · Node.js · GitHub · React Native · React · JavaScript · SQL
 
 <p style="line-height: 0.2"><b>Capita | 2018-2019</b></p>
 
@@ -85,4 +91,4 @@ Embarked on a specialized role that involved extensive travel to various college
 
 - CAPITA Novus Graduate Programme, 2019.
 - BSc Science in Software Engineering, Manchester Metro University, 2018.
-- Three * Distinction in BTEC Information Technology, Pendleton College, 2015.
+- Three * Distinction in Information Technology, Pendleton College, 2015.
