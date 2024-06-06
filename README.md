@@ -1,9 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-<h1 style="text-align:center; line-height: 1">Charles Cooper</h1>
-<a style="margin-left: 5px" href="https://www.linkedin.com/in/cd-cooper/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="20" height="20"></a>
-<a style="margin-left: 5px" href="https://github.com/charlscooper"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="20" height=20"></a>
+<h1 style="border-bottom: 0px; flex; text-align:center; line-height: 1">Charles Cooper</h1>
+<a style="margin-left: 5px; margin-bottom: 15px; text-decoration:none;" href="https://www.linkedin.com/in/cd-cooper/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="15" height="15"></a>
+<a style="margin-left: 5px; margin-bottom: 15px; text-decoration:none;" href="https://github.com/charlscooper"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="15" height=15"></a>
 </div>
-
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
     <p style="line-height: 1"><b>Address: </b>85 Princes Reach,<br /> Preston, Lancashire, PR22GB.</p>
